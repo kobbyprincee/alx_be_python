@@ -1,13 +1,13 @@
 # Define the  variables and assign values
 
-Length = 10 
-Width = 5
+length = 10 
+width = 5
 
 #Calculating the Area of the Rectangle
 
-Area = Length * Width
+area = length * width
 
 #Displaying the Results of the Calculated Area
 
-print("The area of the rectangle is: ",Area)
+print("The area of the rectangle is: ",area)
 
